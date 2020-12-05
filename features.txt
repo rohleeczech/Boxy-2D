@@ -1,0 +1,39 @@
+-> Mechanics of 2D bodies
+   -> mass of a body
+   -> position of a body
+   -> velocity of a body
+   -> acceleration of a body
+   -> force on a body
+   -> static friction
+   -> sliding friction
+   -> uniform gravitational field
+(implement position, velocity, acceleration and force and frictional force as a vector not as a scalar)
+
+-> Rotational mechanics of a 2D body
+   -> moment of inertia of a body about a specified axis
+   -> angle of rotation of a body about a specified axis
+   -> angular velocity of a body about a specified axis
+   -> angular acceleration of a body about a specified axis
+   -> torque on a body about a specified axis
+   -> rolling friction
+
+-> Collisions
+   -> collisions inbetween any n-sided polygon, n < 11
+   -> collisions between a circle and any n-sided polygon
+
+-> Gravity between any 2 objects
+   -> gravitational force between 2 bodies using newton's law of gravity (F = GMm/d^2)
+
+-> Air resistance and drag acting on a rigid body
+
+-> Spring mechanics
+
+-> Ideal and non-ideal ropes, and tension
+   -> tension on a rope
+
+-> simulating fluids (if possible)
+
+-> GUI for the user to change the values of the physical quantities and constants
+
+
+
